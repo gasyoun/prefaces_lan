@@ -1,0 +1,19 @@
+01 _images/lan_007.png Title
+02 _images/lan_009.png Dedication
+03 _images/lan_011.png Preface 1
+04 _images/lan_012.png Preface 2
+05 _images/lan_013.png Preface 3
+06 _images/lan_014.png Preface 4
+07 _images/lan_015.png Preface 5
+08 _images/lan_016.png Preface 6
+09 _images/lan_017.png Preface 7
+10 _images/lan_018.png Preface 8
+11 _images/lan_019.png Contents 1
+12 _images/lan_020.png Contents 2
+13 _images/lan_021.png Contents 3
+14 _images/lan_023.png Introductory Suggestions 1
+15 _images/lan_024.png Introductory Suggestions 2
+16 _images/lan_025.png Books for Students of Sanskrit 1
+17 _images/lan_026.png Books for Students of Sanskrit 2
+18 _images/lan_027.png Books for Students of Sanskrit 3
+19 _images/lan_028.png Books for Students of Sanskrit 4
