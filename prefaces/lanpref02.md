@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_009.png
 source_page: Dedication
@@ -21,3 +23,5 @@ RUDOLF ROTH
 OF THE UNIVERSITY OF TÜBINGEN,
 
 *IN TOKEN OF THANKS AND AFFECTION.*
+
+_Dr. Mārcis Gasūns_

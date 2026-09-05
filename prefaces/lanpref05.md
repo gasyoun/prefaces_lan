@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_013.png
 source_page: Preface 3
@@ -28,3 +30,5 @@ Concerning the text, little need be said. It would have been either folly or idl
 ⁷ But some of the interesting orthographical peculiarities of the Maitrāyanī Sanhitā I have allowed to stand.
 
 ⁸ See the "Brief List," page xvii.
+
+_Dr. Mārcis Gasūns_

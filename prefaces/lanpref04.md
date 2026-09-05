@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_012.png
 source_page: Preface 2
@@ -30,3 +32,5 @@ Among the Vedic hymns (or Mantra-material) are, first, some of the easiest⁵; t
 ⁶ Selection xxxii. is the best.
 
 ⁷ Selections xxxv., xxxvii., and lvi. are in dramatic form (see WHITNEY, page xviii), and are among the most difficult.
+
+_Dr. Mārcis Gasūns_

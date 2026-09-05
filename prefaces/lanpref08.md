@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_016.png
 source_page: Preface 6
@@ -24,3 +26,5 @@ The accents of all words have been regularly marked in the headings of the artic
 ⁴ Compare note ², above.
 
 ⁵ For these accents I have relied on BOEHTLINGK'S *Sanskrit-Wörterbuch in Kürzerer Fassung* as far as it has appeared, i.e. to the end of bh, and for the rest of the alphabet, on the great thesaurus of BOEHTLINGK AND ROTH. There are many words accented in more than one way (e.g., rājyá, rājyà, rā́jya, ā́sana, āsaná, dáridra, darídrá, dāíva, dāivá, bhūtí, bhû́ti, vṛṣṭí, vṛ́ṣṭi, veṇú, véṇu); such have generally been left unmarked; but of a few common words like mánu, dvipád, paçú, pāpá, and matí, the prevailing accent is given, especially, if (as in the case of bhṛtí or pātṛí) the other accent is rare, or (as in the case of çúṣka) not authenticated.
+
+_Dr. Mārcis Gasūns_

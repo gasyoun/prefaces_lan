@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_012.png
 source_page: Preface 2
@@ -32,3 +34,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ⁶ Лучший — отрывок xxxii.
 
 ⁷ Отрывки xxxv., xxxvii. и lvi. даны в драматической форме (см. WHITNEY, с. xviii) и относятся к числу самых трудных.
+
+_Dr. Mārcis Gasūns_

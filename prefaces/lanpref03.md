@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_011.png
 source_page: Preface 1
@@ -14,3 +16,5 @@ The design of this work, then, is twofold. In the first place, it is to serve as
 This Reader is designed, in the second place, to render a knowledge of Sanskrit accessible to the classical teachers of high-schools, academies, and colleges. These teachers, if they pursue this study at all, usually do so without the aid of an instructor. And it is especially *the requirements of unaided private study* that I have taken constant pains to meet. I state this fact thus explicitly, because, both here at Cambridge, and during my connection with the Johns Hopkins University (where the plan for this work was formed), numerous inquiries for such a book have been addressed to me by persons very remote from any of the higher institutions of learning.
 
 If, incidentally, this work should help to correct some of the false notions which are prevalent respecting the relations of Sanskrit to other languages of the Indo-European family, and to save the literature from
+
+_Dr. Mārcis Gasūns_

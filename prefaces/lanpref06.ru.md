@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_014.png
 source_page: Preface 4
@@ -28,3 +30,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ¹ Он передал их мне в рукописи, прежде чем сам приступил к печатанию.
 
 ² Обратившись к ссылке 1112e (под míthu), студент обратит внимание на особую форму и ударение наречия и найдёт объяснение этого.
+
+_Dr. Mārcis Gasūns_

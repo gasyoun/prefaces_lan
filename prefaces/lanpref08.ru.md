@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_016.png
 source_page: Preface 6
@@ -26,3 +28,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ⁴ Ср. примечание ² выше.
 
 ⁵ Для этих ударений я опирался на *Sanskrit-Wörterbuch in Kürzerer Fassung* БЁТЛИНГКА (BOEHTLINGK), насколько оно вышло, т.е. до конца bh, а для остальной части алфавита — на великий тезаурус БЁТЛИНГКА и РОТА (BOEHTLINGK AND ROTH). Есть много слов с более чем одним ударением (напр. rājyá, rājyà, rā́jya, ā́sana, āsaná, dáridra, darídrá, dāíva, dāivá, bhūtí, bhû́ti, vṛṣṭí, vṛ́ṣṭi, veṇú, véṇu); такие, как правило, оставлены без пометы; но для нескольких обычных слов вроде mánu, dvipád, paçú, pāpá и matí дано преобладающее ударение, особенно если (как в случае bhṛtí или pātṛí) другое ударение редко, или (как в случае çúṣka) не засвидетельствовано.
+
+_Dr. Mārcis Gasūns_

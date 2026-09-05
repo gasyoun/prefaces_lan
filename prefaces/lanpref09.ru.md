@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_017.png
 source_page: Preface 7
@@ -30,3 +32,5 @@ Notes, составляющие третью часть этой работы, �
 ⁵ Особенно издание ГАРБЕ (GARBE) Çrauta Sūtra Apastamba и Maitrāyanī ФОН ШРЁДЕРА (VON SCHROEDER).
 
 ⁶ Jaiminīya Brāhmaṇa.
+
+_Dr. Mārcis Gasūns_

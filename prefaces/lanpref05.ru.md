@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_013.png
 source_page: Preface 3
@@ -30,3 +32,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ⁷ Но некоторые интересные орфографические особенности Maitrāyanī Sanhitā я оставил без изменений.
 
 ⁸ См. «Brief List», с. xvii.
+
+_Dr. Mārcis Gasūns_

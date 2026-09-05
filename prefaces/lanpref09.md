@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_017.png
 source_page: Preface 7
@@ -28,3 +30,5 @@ The Notes, which form the third part of this work, will be issued as soon as is 
 ⁵ Especially GARBE'S edition of Apastamba's Çrauta Sūtra, and VON SCHROEDER'S Maitrāyanī.
 
 ⁶ The Jaiminīya Brāhmaṇa.
+
+_Dr. Mārcis Gasūns_

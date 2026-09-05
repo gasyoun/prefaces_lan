@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_025.png
 source_page: Books for Students of Sanskrit 1
@@ -24,3 +26,5 @@ This work and the two following are publications of the Russian Imperial Academy
 ¹ Hence the prices are included. Both the Mark and the shilling may be reckoned as a quarter of a dollar. The prices given with the titles are publishers' prices. To these prices, except when given in dollars, should be added the duty, which is 25 per cent. The books will cost the American purchaser somewhat more or less according to his facilities for obtaining foreign books.
 
 ² With perhaps one exception, no. 18, which can, however, be had of second-hand dealers.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_028.png
 source_page: Books for Students of Sanskrit 4
@@ -38,3 +40,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 26. **Мьюр, Джон (Muir, John).** Original Sanskrit texts on the origin and history of the people of India, their religions and institutions. Collected, translated, and illustrated. Лондон, Trübner & Co. 1872–1874. 5 томов. 8°.
 
 Первые четыре тома вышли вторым изданием, а второй том — третьим. Третий том стоит 16 шиллингов. Цена каждого из остальных — 21 шиллинг. Первый том рассматривает происхождение касты. Пятый посвящён космогонии, мифологии, религиозным идеям, жизни и нравам индийцев в ведийскую эпоху.
+
+_Dr. Mārcis Gasūns_

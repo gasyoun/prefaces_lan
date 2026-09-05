@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_019.png
 source_page: Contents 1
@@ -45,3 +47,5 @@ XXII. King Putraka and the seven-league boots . . . . . 45
 XXIII. Story of Mousey, the thrifty merchant . . . . . 46
 XXIV. King Çibi, the falcon, and the dove . . . . . . 48
 XXV. Story of Ahalyā . . . . . . . . . . . 48
+
+_Dr. Mārcis Gasūns_

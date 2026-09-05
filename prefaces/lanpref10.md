@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_018.png
 source_page: Preface 8
@@ -26,3 +28,5 @@ THE references to Whitney's Sanskrit Grammar which are given in Parts II. and II
 C. R. L.
 
 JUNE, 1903.
+
+_Dr. Mārcis Gasūns_

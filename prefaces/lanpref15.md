@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_024.png
 source_page: Introductory Suggestions 2
@@ -16,3 +18,5 @@ It is very undesirable to attempt to read the Sūtra chapters until one is famil
 Since the synopses following each verbal root in the vocabulary represent the great mass of all the forms in actual use (rather than those simply prescribed by the grammarians), and so correspond to the "principal parts" of the Latin and Greek verbs, the student should make it his duty to learn the synopsis for each root when he first meets verbal forms of that root in the text.
 
 Attention is called to the explanations and abbreviations (pages 289–294); these should be looked over carefully before using the vocabulary.
+
+_Dr. Mārcis Gasūns_

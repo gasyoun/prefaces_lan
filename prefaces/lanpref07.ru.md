@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_015.png
 source_page: Preface 5
@@ -20,3 +22,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ¹ Для других параллелей ср., например, ābharaṇa, barhis, bhavana, vaṅça, varṇa. Иногда понимание параллелизма зависит от знания этимологии английского слова; так, под корнем nud + vi приводятся английские *di-vert*, *dis-port* и *s-port*, и ссылка на словарь SKEAT или WEBSTER может понадобиться студенту, чтобы увидеть, как эти слова параллельны в специализации и метафоре. Об этом предмете в целом ср. CURTIUS, *Grundzüge*⁵, с. 111–116, и BRINKMANN, *Die Metaphern*, Bonn, 1878.
 
 ² Давать их без значений и без показа связи идей — для элементарной книги бесполезное занятие.
+
+_Dr. Mārcis Gasūns_

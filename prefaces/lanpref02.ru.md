@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_009.png
 source_page: Dedication
@@ -23,3 +25,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ИЗ ТЮБИНГЕНСКОГО УНИВЕРСИТЕТА,
 
 *В ЗНАК БЛАГОДАРНОСТИ И ПРИВЯЗАННОСТИ.*
+
+_Dr. Mārcis Gasūns_

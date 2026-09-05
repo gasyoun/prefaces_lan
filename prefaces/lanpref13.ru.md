@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_021.png
 source_page: Contents 3
@@ -41,3 +43,5 @@ LXXV. Обычаи и ритуал кремации и погребения . . 
 ## ЧАСТЬ III.
 
 Примечания (Notes) . . . . . . . . . . . 297
+
+_Dr. Mārcis Gasūns_

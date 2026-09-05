@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_014.png
 source_page: Preface 4
@@ -26,3 +28,5 @@ Secondly, as regards the *meanings*, To enable the student to trace every signif
 ¹ He gave them to me in manuscript, before he himself began printing.
 
 ² By looking out the reference to 1112e (under míthu), the student will have his attention drawn to the peculiar form and accent of the adverb and will find the explanation thereof.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_018.png
 source_page: Preface 8
@@ -28,3 +30,5 @@ CAMBRIDGE, MASSACHUSETTS,
 C. R. L.
 
 ИЮНЬ 1903.
+
+_Dr. Mārcis Gasūns_

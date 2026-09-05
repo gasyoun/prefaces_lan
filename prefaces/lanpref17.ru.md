@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_026.png
 source_page: Books for Students of Sanskrit 2
@@ -36,3 +38,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 10. **Виндиш, Эрнст (Windisch, Ernst).** Zwölf Hymnen des Rigveda. Mit Sāyaṇa's Commentar. Text. Wörterbuch zu Sāyaṇa. Appendices. Лейпциг, S. Hirzel. 1883. 8°. Цена 5 марок.
 
 Даёт текст и комментарий великого схолиаста — оба в *nāgarī*. Текст напечатан с подлинной акцентуацией (как в настоящей Хрестоматии). Книга служит полезным введением в туземную индусскую, или традиционную, экзегезу Веды. Словарь не охватывает самих гимнов; но семь из двенадцати гимнов переведены в маленькой книге, упомянутой ниже, № 15.
+
+_Dr. Mārcis Gasūns_

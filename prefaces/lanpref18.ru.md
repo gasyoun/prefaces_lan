@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_027.png
 source_page: Books for Students of Sanskrit 3
@@ -40,3 +42,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 18. **Рот, Р., и Уитни, У. Д. (Roth, R., und Whitney, W. D.).** Atharva Veda Sanhita. Herausgegeben. Erster Band. Text. Берлин, Ferd. Dümmler. 1856. Royal 8°. Цена 28 марок 50 пфеннигов.
 
 Это важнейшая и интереснейшая из Вед после Ригведы (Rik). Она полна магических заклинаний и иных порождений любопытных суеверий.
+
+_Dr. Mārcis Gasūns_

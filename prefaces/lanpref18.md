@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_027.png
 source_page: Books for Students of Sanskrit 3
@@ -38,3 +40,5 @@ Published by the German Oriental Society, in volumes III. and IV. of the Abhandl
 18. **Roth, R., und Whitney, W. D.** Atharva Veda Sanhita. Herausgegeben. Erster Band. Text. Berlin, Ferd. Dümmler. 1856. Royal 8°. Price 28 Mark 50 Pfennige.
 
 This is the most important and interesting of the Vedas, after the Rik. It is full of magic incantations and other products of curious superstitions.
+
+_Dr. Mārcis Gasūns_

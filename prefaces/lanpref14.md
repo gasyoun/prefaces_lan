@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_023.png
 source_page: Introductory Suggestions 1
@@ -14,3 +16,5 @@ After finishing the Nala, the student should take up the Hitopadeça. Selections
 It is recommended that the student use the stories from the Kathā-sarit-sāgara for exercise in rapid reading, as soon as he has acquired a fair vocabulary from what precedes. The passages from "Manu" may be read as they stand.
 
 Of the Vedic selections, the easiest are numbers xxxi. (Rigveda i. 1), xxxiii., xxxviii., xxxix., xli., xlv., xlvi., and lix.; and it is advisable to read these first and in the order here mentioned. Selection xxxii., as being one of poetic merit and not over-hard, may next be taken up, and after it, the Varuna-hymns, selections xliii.–xliv.; then the hymns in dramatic form, selections xxxv., xxxvii., and lvi.
+
+_Dr. Mārcis Gasūns_

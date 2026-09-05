@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_007.png
 source_page: Title
@@ -29,3 +31,5 @@ BOSTON
 GINN AND COMPANY
 
 1906
+
+_Dr. Mārcis Gasūns_

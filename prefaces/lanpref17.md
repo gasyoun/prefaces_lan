@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_026.png
 source_page: Books for Students of Sanskrit 2
@@ -34,3 +36,5 @@ This contains 47 hymns from the Rigveda. Of these, only five are repeated in thi
 10. **Windisch, Ernst.** Zwölf Hymnen des Rigveda. Mit Sāyaṇa's Commentar. Text. Wörterbuch zu Sāyaṇa. Appendices. Leipzig, S. Hirzel. 1883. 8°. Price 5 Mark.
 
 This gives the text, and the comment of the great scholiast, both in *nāgarī* letters. The text is printed with the genuine accentuation (as in this Reader). The book serves a useful purpose as introduction to the native Hindu or traditional exegesis of the Veda. The vocabulary does not cover the hymns themselves; but seven of the twelve hymns are translated in the little book mentioned below, no. 15.
+
+_Dr. Mārcis Gasūns_

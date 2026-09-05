@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_020.png
 source_page: Contents 2
@@ -57,3 +59,5 @@ LX. x. 154 К Яме. — Погребальный гимн . . . . . 91
 LXI. x. 155 Погребальная строфа . . . . . . . . 91
 
 \* Подробный обзор см. в Notes.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: lan_015.png
 source_page: Preface 5
@@ -18,3 +20,5 @@ In a book intended partly for persons whose chief interest in Sanskrit is from t
 ¹ For other parallels, compare, for example, ābharaṇa, barhis, bhavana, vaṅça, varṇa. Sometimes the understanding of the parallelism depends on a knowledge of the etymology of an English word; thus under root nud + vi, are adduced the English *di-vert*, *dis-port*, and *s-port*, and a reference to SKEAT'S dictionary or to WEBSTER'S may be necessary for the student, in order to find how these words are parallel in specialization and metaphor. On this subject in general, compare CURTIUS, *Grundzüge*⁵, pp. 111–116, and BRINKMANN, *Die Metaphern*, Bonn, 1878.
 
 ² To give them without their meanings and without showing the connection of ideas is, for an elementary book, a useless task.
+
+_Dr. Mārcis Gasūns_

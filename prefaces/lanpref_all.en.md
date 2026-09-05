@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — English
 
 Per-page files: `lanprefNN.md`. Index: [README.md](README.md).
@@ -598,3 +600,5 @@ Oldenberg has recently finished editing (in five volumes) the Vinaya Piṭakam, 
 26. **Muir, John.** Original Sanskrit texts on the origin and history of the people of India, their religions and institutions. Collected, translated, and illustrated. London, Trübner & Co. 1872–1874. 5 volumes. 8°.
 
 The first four volumes have appeared in a second edition, and the second volume in a third edition. The third volume costs 16 shillings. The price of each of the others is 21 shillings. The first volume discusses the origin of caste. The fifth is devoted to the cosmogony, mythology, religious ideas, life, and manners of the Indians in the Vedic age.
+
+_Dr. Mārcis Gasūns_
