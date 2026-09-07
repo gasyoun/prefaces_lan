@@ -2,7 +2,7 @@ _Created: 23-07-2026 · Last updated: 05-09-2026_
 
 # Предварительные материалы — русский
 
-Per-page files: `lanprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `lanprefNN.ru.md`. Index: [README.md](../../Uprava-h4060-drain/README.md).
 
 ## Contents
 
